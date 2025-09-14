@@ -1,0 +1,15 @@
+:root { --primary-color: rgb(63, 57, 53);
+    --secondary-color: rgb(236, 227, 219);
+    --accent-color: rgb(135, 105, 77)}
+body {font-family: cursive; background-color: var(--primary-color)}
+h1 {padding: 10px; margin: auto; font-size: 50px; color: var(--secondary-color)}
+h2 {padding: 10px; margin: auto; font-size: 30px; color: var(--accent-color)}
+h3 {padding: 10px; margin: auto; font-size: 25px; color: var(--secondary-color)}
+p {padding: 10px; margin: auto; font-size: 20px; color: var(--accent-color)}
+ul {padding: 10px; margin: 20px; font-size: 15px; color: var(--accent-color)}
+div {border: 10px solid var(--accent-color);
+    padding: 20px;
+    margin: 50px;
+    width: fit-content;
+    background-color: var(--secondary-color);
+    height: 200px}
