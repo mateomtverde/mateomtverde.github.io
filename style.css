@@ -7,9 +7,11 @@ h2 {padding: 10px; margin: auto; font-size: 30px; color: var(--accent-color)}
 h3 {padding: 10px; margin: auto; font-size: 25px; color: var(--secondary-color)}
 p {padding: 10px; margin: auto; font-size: 20px; color: var(--accent-color)}
 ul {padding: 10px; margin: 20px; font-size: 15px; color: var(--accent-color)}
-div {border: 10px solid var(--accent-color);
+.box {border: 10px solid var(--accent-color);
     padding: 20px;
     margin: 50px;
     width: fit-content;
     background-color: var(--secondary-color);
     height: 200px}
+.windy {padding: 20px;
+    margin: 50px}
